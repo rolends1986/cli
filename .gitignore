@@ -5,3 +5,4 @@ vendor
 .idea
 internal/*/built-example
 coverage.txt
+Gopkg.lock

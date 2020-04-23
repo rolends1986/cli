@@ -2,11 +2,12 @@ package altsrc
 
 import (
 	"fmt"
+	"urfavecli"
 	"path/filepath"
 	"strconv"
 	"syscall"
 
-	"github.com/urfave/cli/v2"
+
 )
 
 // FlagInputSourceExtension is an extension interface of cli.Flag that

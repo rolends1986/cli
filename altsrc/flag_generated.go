@@ -5,7 +5,7 @@ package altsrc
 import (
 	"flag"
 
-	"github.com/urfave/cli/v2"
+	"urfavecli"
 )
 
 // BoolFlag is the flag type that wraps cli.BoolFlag to allow

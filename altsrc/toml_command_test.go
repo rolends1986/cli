@@ -6,7 +6,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/urfave/cli/v2"
+	"urfavecli"
 )
 
 func TestCommandTomFileTest(t *testing.T) {

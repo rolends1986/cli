@@ -10,7 +10,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/urfave/cli/v2"
+	"urfavecli"
 )
 
 type testApplyInputSource struct {
